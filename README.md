@@ -90,7 +90,7 @@ LDFLAGS =  main.cpp
 
 SRC = 
 OBJ = $(SRC:.cc=.o)
-EXEC = dindovuv
+EXEC = aiho
 
 all: $(EXEC)
 
